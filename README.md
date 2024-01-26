@@ -1,2 +1,11 @@
-# udemy-demo-repo
-유데미 - 깃허브 솔루션 아키텍트에게 직접 배워보는 git 그리고 github
+# Udemy 마크다운 배우기
+
+안녕하세요. Bryant 에요.
+
+## 마크다운 연습
+
+- 바나나
+- 사과
+- 딸기
+
+[github](https://github.com)
